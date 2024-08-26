@@ -16,3 +16,17 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+# hugo-related .gitignore taken from https://github.com/hrishikesh-k/tejal/blob/v8/.gitignore
+.DS_Store
+.hugo_build.lock
+.idea/
+.vscode/
+assets/css/vidstack
+assets/css/styles.css.bak.css
+assets/css/uno.css
+desktop.ini
+node_modules/
+public/
+resources/
+scripts.js
+thumbs.db
